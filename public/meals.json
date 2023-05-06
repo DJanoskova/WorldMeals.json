@@ -583,12 +583,15 @@
   "lager beer",
   "pale ale beer",
   "stout beer",
-  "india pale ale beer",
+  "india pale ale",
+  "american pale ale",
+  "english pale ale",
   "wheat beer",
   "pilsner beer",
   "belgian ale",
   "brown ale",
   "porter beer",
   "saison beer",
+  "trappist beer",
   "cider"
 ]
